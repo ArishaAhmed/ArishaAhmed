@@ -16,7 +16,7 @@
 
 ###
 
-<h1 align="center">hey there 👋</h1>
+<h1 align="center">Hey There 👋</h1>
 
 ###
 
@@ -24,7 +24,7 @@
 
 ###
 
-<p align="left">I'm Arisha Ahmed <br><br>- 📚 I'm currently learning Power Bi and Scikit Learn</p>
+<p align="left">I'm Arisha Ahmed <br><br>- 📚 I'm currently learning Tableau and Machine Learning</p>
 
 ###
 
